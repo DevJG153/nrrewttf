@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1051124770257",
+    "project_id": "chemist-8eaae",
+    "storage_bucket": "chemist-8eaae.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1051124770257:android:d471fdd4ff7e822eb7acf0",
+        "android_client_info": {
+          "package_name": "com.chemist"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBCND0akW40pxZZCpRAyfGjO1OspReWI5k"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
